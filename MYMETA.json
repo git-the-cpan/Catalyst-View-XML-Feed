@@ -4,7 +4,7 @@
       "Mark A. Stratman <stratman@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "perl_5"
    ],
@@ -49,8 +49,9 @@
          "http://dev.perl.org/licenses/"
       ],
       "repository" : {
+         "type" : "git",
          "url" : "git://github.com/mstratman/Catalyst-View-XML-Feed.git"
       }
    },
-   "version" : "0.06"
+   "version" : "0.08"
 }
